@@ -1,0 +1,33 @@
+heading {
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+data {
+  display: block;
+  margin: 40px auto;
+}
+
+student {
+  margin-top: 40px;
+  padding: 50px 40px;
+  display: block;
+  border: 1px solid yellowgreen;
+}
+
+name {
+  color: blueviolet;
+}
+
+reg_no {
+  color: green;
+}
+
+college_name {
+  color: rgb(73, 233, 212);
+}
+
+year {
+  color: rgb(155, 26, 214)
+}

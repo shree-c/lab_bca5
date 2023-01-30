@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<student_details>
+  <heading>
+    Information of students studying in KUD
+  </heading>
+  <data>
+    <student>
+      <name>
+        Selmon Bahi
+      </name>
+      <reg_no>
+        2003123s
+      </reg_no>
+      <college_name>
+        car driving school
+      </college_name>
+      <year>
+        1980
+      </year>
+      <email>
+        sallu@mail.com
+      </email>
+    </student>
+    <student>
+      <name>
+        Aamir K
+      </name>
+      <reg_no>
+        23499de
+      </reg_no>
+      <college_name>
+        Thugs school
+      </college_name>
+      <year>
+        1987
+      </year>
+      <email>
+        aamir@mail.com
+      </email>
+    </student>
+    <student>
+      <name>
+        N bodi
+      </name>
+      <reg_no>
+        2399be2
+      </reg_no>
+      <college_name>
+        chai_wala school of chai
+      </college_name>
+      <year>
+        2873
+      </year>
+      <email>
+        chowkidar@mail.com
+      </email>
+    </student>
+  </data>
+</student_details>
